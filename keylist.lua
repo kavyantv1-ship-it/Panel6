@@ -16,6 +16,13 @@ return {
         valid = true,
         max_devices = 5,
         SLOT = "2"
+    }
+    ["SAMEER"] = {
+        type = "DEMO",
+        expiry = "2026-09-08",
+        valid = true,
+        max_devices = 1,
+        SLOT = "2"
     },
     ["SINGLE_USER"] = {
         type = "VIP",
