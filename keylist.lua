@@ -17,7 +17,7 @@ return {
         max_devices = 5,
         SLOT = "2"
     }
-    ["SAMEER2DAY"] = {
+    ["GRW_4.6 2DAY KEY"] = {
         type = "DEMO",
         expiry = "2026-09-10",
         valid = true,
