@@ -17,10 +17,10 @@ return {
         max_devices = 5,
         SLOT = "2"
     }
-    ["SAMEER"] = {
-        type = "BLOCKED",
+    ["SAMEER1"] = {
+        type = "DEMO",
         expiry = "2026-09-08",
-        valid = false,
+        valid = true,
         max_devices = 2,
         SLOT = "0"
     },
