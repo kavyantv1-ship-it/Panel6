@@ -20,7 +20,7 @@ return {
     ["SAMEER"] = {
         type = "DEMO",
         expiry = "2026-09-08",
-        valid = true,
+        valid = false,
         max_devices = 2,
         SLOT = "2"
     },
