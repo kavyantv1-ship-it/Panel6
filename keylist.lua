@@ -24,6 +24,13 @@ return {
         max_devices = 500,
         SLOT = "3"
     },
+    ["SPIDER"] = {
+        type = "DEMO",
+        expiry = "2026-09-15",
+        valid = true,
+        max_devices = 1,
+        SLOT = "4"
+    },
     ["SINGLE_USER"] = {
         type = "VIP",
         expiry = "2025-01-01",
