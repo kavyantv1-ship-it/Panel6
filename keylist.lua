@@ -17,7 +17,7 @@ return {
         max_devices = 1,
         SLOT = "2"
     }
-    ["SAME"] = {
+    ["GRW"] = {
         type = "DEMO",
         expiry = "2026-09-10",
         valid = true,
