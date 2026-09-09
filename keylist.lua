@@ -7,7 +7,7 @@ return {
         type = "VIP",
         expiry = "2026-10-1",
         valid = true,
-        max_devices =1,
+        max_devices =2,
         SLOT = "1"
     },
     ["DEMO123"] = {
